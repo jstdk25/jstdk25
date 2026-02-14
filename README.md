@@ -12,7 +12,4 @@ I work with cloud platforms, infrastructure as code, and security-first architec
 - CI/CD pipelines with security controls
 - Linux, containers, and cloud-native fundamentals
 
-🔗 **Connect with me on LinkedIn:**  
-👉 https://www.linkedin.com/in/franklynrds/
-
 🚀 This GitHub documents my learning path, labs, and projects as I grow toward advanced roles in **Cloud Security and DevSecOps**.
